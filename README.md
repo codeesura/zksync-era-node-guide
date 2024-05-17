@@ -70,6 +70,7 @@ After successfully connecting to the server, execute these commands on the serve
    ```
 
 4. **Verify Docker Installation:**
+
    ```sh
    docker --version
    ```
@@ -118,7 +119,6 @@ After successfully connecting to the server, execute these commands on the serve
 
    ```sh
    docker-compose -f mainnet-external-node-docker-compose.yml up -d
-
    ```
 
 5. **Verify Running Containers:**
