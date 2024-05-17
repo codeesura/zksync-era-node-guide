@@ -9,6 +9,12 @@ Bu rehber, Ubuntu Linux üzerinde `zkSync Era` düğümünü nasıl kuracağın�
 - Storage: 300 GB, with the state growing about 1TB per month.
 - Network: 100 Mbps connection (1 Gbps+ recommended)
 
+### Sunucu Kiralama
+
+Eğer bir sunucuya ihtiyacınız varsa, Hetzner üzerinden sunucu kiralayabilirsiniz. Ayrıca, bu referans linkini kullanarak kaydolursanız 20 EUR kredi kazanabilirsiniz.
+
+[Hetzner](https://hetzner.cloud/?ref=fu2umOyLCWhh)
+
 ## Adım 1: Visual Studio Code Kurulumu (Yerel Bilgisayarda)
 
 1. **Visual Studio Code'u İndirin ve Kurun:**
