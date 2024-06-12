@@ -131,7 +131,7 @@ After successfully connecting to the server, execute these commands on the serve
 
 6. **View and Follow the Last 100 Logs:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
 
 Press `Ctrl+C` to exit the log view. This will not stop your node; it will continue to run in the background.
