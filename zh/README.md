@@ -130,7 +130,7 @@
 
 6. **查看并跟踪最后 100 个日志：**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
 
 按 `Ctrl+C` 退出日志视图。这不会停止您的节点；它将继续在后台运行。

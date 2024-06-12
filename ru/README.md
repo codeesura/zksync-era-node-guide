@@ -130,7 +130,7 @@
 
 6. **Просмотр и отслеживание последних 100 журналов:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
    Нажмите `Ctrl+C`, чтобы выйти из просмотра журнала. Это не остановит ваш узел; он продолжит работать в фоновом режиме.
 

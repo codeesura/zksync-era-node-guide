@@ -129,7 +129,7 @@ Après vous être connecté avec succès au serveur, exécutez ces commandes sur
 
 6. **Afficher et Suivre les 100 Derniers Journaux:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
 
 Appuyez sur `Ctrl+C` pour quitter la vue des journaux. Cela n'arrêtera pas votre nœud; il continuera à fonctionner en arrière-plan.

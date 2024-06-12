@@ -119,7 +119,7 @@ Sunucuya başarıyla bağlandıktan sonra, bu işlemleri ve kod bloklarını sun
 
 6. **Son 100 Log Kaydını Görüntüleyin ve Takip Edin:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ``` 
 
 Loglardan çıkmak için ctrl + c tuşuna basabilirsiniz. Bu işlem, düğümünüzün çalışmasını durdurmaz; düğüm arka planda çalışmaya devam eder.

@@ -130,7 +130,7 @@ Después de conectarse con éxito al servidor, ejecute estos comandos en el serv
 
 6. **Ver y Seguir los Últimos 100 Logs:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
 
 Presione `Ctrl+C` para salir de la vista de logs. Esto no detendrá su nodo; continuará ejecutándose en segundo plano.

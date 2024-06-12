@@ -128,7 +128,7 @@ Dopo esserti connesso con successo al server, esegui questi comandi sul server.
 
 6. **Visualizzare e Seguire gli Ultimi 100 Log:**
    ```sh
-   docker logs -f --tail 100 docker-compose-examples-external-node-1
+   docker logs -f --tail 100 docker-compose-examples_external-node_1
    ```
 
 Premi `Ctrl+C` per uscire dalla visualizzazione dei log. Questo non fermerà il tuo nodo; continuerà a funzionare in background.
